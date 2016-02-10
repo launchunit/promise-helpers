@@ -11,7 +11,7 @@ const Helpers = require('../');
 Helpers.resolve
 Helpers.reject
 Helpers.done
-Helpers.doneMongo
+Helpers.mongoDone
 ```
 
 

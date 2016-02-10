@@ -55,7 +55,7 @@ exports.done = err => {
  * @return {Promise}
  * @public
  */
-exports.doneMongo = err => {
+exports.mongoDone = err => {
 
   if (err instanceof Error) {
 
